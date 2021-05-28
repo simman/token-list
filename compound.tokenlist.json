@@ -14,6 +14,54 @@
       "symbol": "WAITD",
       "decimals": 18,
       "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
+    },
+    {
+      "chainId": 239,
+      "address": "0x601f7977855f7d0591702a05d3a516e7d213fa2f",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
+    },
+    {
+      "chainId": 239,
+      "address": "0x8073af7b943d6f5f4db6462846e3aaa13e058f87",
+      "name": "Multicall",
+      "symbol": "Multicall",
+      "decimals": 18,
+      "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
+    },
+    {
+      "chainId": 239,
+      "address": "0xe363cb9f0249d79d480e5b934918f8375df2c1f8",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
+    },
+    {
+      "chainId": 239,
+      "address": "0xee0e8b30b454fb9a5590d82dd609724f4dca3c9f",
+      "name": "ABTC",
+      "symbol": "ABTC",
+      "decimals": 18,
+      "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
+    },
+    {
+      "chainId": 239,
+      "address": "0xc2a5d31a52e5ab8834b4a351d4e8c0cf4d8bf4af",
+      "name": "AETH",
+      "symbol": "AETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
+    },
+    {
+      "chainId": 239,
+      "address": "0x502271c5e73a28e25ae25708052521040d05676a",
+      "name": "bridge",
+      "symbol": "bridge",
+      "decimals": 18,
+      "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
     }
   ],
   "version": {
