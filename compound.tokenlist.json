@@ -9,9 +9,9 @@
   "tokens": [
     {
       "chainId": 239,
-      "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
-      "name": "AITD",
-      "symbol": "AITD",
+      "address": "0xf90f3040e6f510470832e54c2a000c33489421f1",
+      "name": "WAITD",
+      "symbol": "WAITD",
       "decimals": 18,
       "logoURI": "https://cdn.pixabay.com/photo/2020/11/26/07/38/rough-collie-5778136__480.jpg"
     }
