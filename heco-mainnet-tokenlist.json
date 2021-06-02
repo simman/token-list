@@ -14,9 +14,9 @@
   "timestamp": "2021-03-07T14:46:35+0000",
   "tokens": [
     {
-      "name": "WETH",
-      "address": "0x601f7977855f7d0591702a05d3a516e7d213fa2f",
-      "symbol": "WETH",
+      "name": "WAITD",
+      "address": "0xf4f2A293566894CA37112252Bc4Ca0f4873016Dd",
+      "symbol": "WAITD",
       "decimals": 18,
       "chainId": 239,
       "logoURI": "https://graph.dogeswap.com/static/images/tokens/0x7663bc3ae9858cae71722aedee364e125c278bdf.png"
