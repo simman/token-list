@@ -1,0 +1,37 @@
+{
+    "name": "AITD SWAP Default List",
+    "timestamp": "2021-01-21T23:57:10.982Z",
+    "version": {
+        "major": 2,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://xxxxx",
+    "tokens": [
+        {
+            "name": "Wrapped Ether",
+            "address": "0x848cb1a9770830da575DfD246dF2d4e38c1D40ed",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 239,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+        },
+        {
+            "name": "Wrapped Ether",
+            "address": "0xEC4C225F734a614B6d6f61b5Ddf0ae96c8e85E32",
+            "symbol": "WAITD",
+            "decimals": 18,
+            "chainId": 239,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+        },
+        {
+            "name": "Wrapped Ether",
+            "address": "0x1D16adac6be715F21bea6CB67F5E264a43d0b42d",
+            "symbol": "WAITD-USDT",
+            "decimals": 18,
+            "chainId": 239,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+        }
+    ]
+}
